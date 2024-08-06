@@ -24,7 +24,7 @@ Our very first attempt at using Godot in 3D. It is a first person walking simula
 An interactive website where you can find presentations for our games. Currently it is a prototype, but the idea is for it to grow with our projects.
 
 ### NOCLIP
-Although the repository isn't still linked to init.Sense, the first project we ever made was in Unity and it was for an university course. The idea for NOCLIP was to have a platformer which would let the player take a sneak peek of the map in different checkpoints and to have it noclip through various obstacles in order to reach the end. You can find it [on itch](https://polimi-game-collective.itch.io/noclip).
+This is the first project we ever made. It's been made in Unity and it was for an university course. The idea for NOCLIP was to have a platformer which would let the player take a sneak peek of the map in different checkpoints and to have it noclip through various obstacles in order to reach the end. You can find it [on itch](https://polimi-game-collective.itch.io/noclip).
 
 ### Who is currently in init.Sense?
 @azazellino<sub>(co-founder)</sub> | @bottolo<sub>(co-founder)</sub> | @roxmysox<sub>(member)</sub>
