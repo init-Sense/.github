@@ -26,5 +26,8 @@ An interactive website where you can find presentations for our games. Currently
 ### NOCLIP
 This is the first videogame project we have ever made. It's been made in Unity and it was for an university course. The idea for NOCLIP was to have a platformer which would let the player take a sneak peek of the map in different checkpoints and to have it noclip through various obstacles in order to reach the end. You can find it [on itch](https://polimi-game-collective.itch.io/noclip).
 
+### Visio
+A small project made in Unity, meant to be played in VR. It is a puzzle game where you have to activate floating platforms in order to proceed, and the mechanism involves rays and orbs.
+
 ### Who is currently in init.Sense?
 @azazellino<sub>(co-founder)</sub> | @bottolo<sub>(co-founder)</sub> | @roxmysox<sub>(member)</sub>
