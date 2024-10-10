@@ -9,6 +9,9 @@ We experiment with different ideas and unconventional gameplay elements and all 
 If you ever find some piece of code useful and want to use it, though, a small credit would make a huge difference!
 
 ## What are you working on?
+### ???
+???
+
 ### Octant
 A work-in-progress game which should engage the player in physics related activities in small environments.
 
@@ -27,6 +30,3 @@ This is the first videogame project we have ever made. It's been made in Unity a
 
 ### Visio
 A small project made in Unity, meant to be played in VR. It is a puzzle game where you have to activate floating platforms in order to proceed, and the mechanism involves rays and orbs.
-
-## Who is currently in init.Sense?
-@azazellino<sub>(co-founder)</sub> | @bottolo<sub>(co-founder)</sub> | @roxmysox<sub>(member)</sub>
